@@ -1,0 +1,35 @@
+.AddCommentDiv{
+    text-align: center;
+}
+.titleDiv{
+    display: grid;
+    grid-template-columns: 1fr 3fr;
+    width: 50%;
+    margin: 5px;
+    margin-left: 400px;
+    text-align: start;
+    height: 30px;
+}
+input{
+    border-radius: 5px;
+}
+.submitButton{
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 10px 24px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 5px;
+}
+.commentDiv{
+    display: grid;
+    grid-template-columns: 1fr 3fr;
+    width: 50%;
+    margin: 5px;
+    margin-left: 400px;
+    text-align: start;
+    height: 30px;
+}
